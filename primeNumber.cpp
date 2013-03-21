@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 //#include <pthread>
-
+//just to check not much
 using namespace std;    // two of two, yay!
 
 //seenivasan just to check
