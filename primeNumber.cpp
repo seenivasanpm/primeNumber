@@ -113,3 +113,6 @@ void * isPrime( void * primeStruct)
 	}
 	pthread_exit(NULL);
 }
+
+
+//this is also just to check
