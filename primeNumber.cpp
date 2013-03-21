@@ -5,7 +5,7 @@
 
 using namespace std;    // two of two, yay!
 
-
+//seenivasan just to check
 #define NUM_THREADS (100)
 //#define PRIME_MAX_LIMIT 10000000
   #define PRIME_MAX_LIMIT 100000
