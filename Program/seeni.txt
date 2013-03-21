@@ -1,0 +1,393 @@
+2 
+3 
+5 
+ 7
+11 
+13
+seeni16
+it is prime
+divide by16
+seeni32
+divide by16
+seeni34
+divide by17
+seeni38
+divide by19
+seeni46
+divide by23
+seeni58
+divide by29
+seeni62
+divide by31
+seeni64
+divide by16
+seeni68
+divide by17
+seeni74
+divide by37
+seeni76
+divide by19
+seeni82
+divide by41
+seeni86
+divide by43
+seeni92
+divide by23
+seeni94
+divide by47
+seeni106
+divide by53
+seeni116
+divide by29
+seeni118
+divide by59
+seeni122
+divide by61
+seeni124
+divide by31
+seeni128
+divide by16
+seeni134
+divide by67
+seeni136
+divide by17
+seeni142
+divide by71
+seeni146
+divide by73
+seeni148
+divide by37
+seeni152
+divide by19
+seeni158
+divide by79
+seeni164
+divide by41
+seeni166
+divide by83
+seeni172
+divide by43
+seeni178
+divide by89
+seeni184
+divide by23
+seeni188
+divide by47
+seeni194
+divide by97
+seeni202
+divide by101
+seeni206
+divide by103
+seeni212
+divide by53
+seeni Prime pthread
+16
+seeni214
+divide by107
+seeni218
+divide by109
+seeni226
+divide by113
+seeni232
+divide by29
+seeni236
+divide by59
+seeni244
+divide by61
+seeni248
+divide by31
+seeni254
+divide by127
+seeni256
+divide by16
+seeni262
+divide by131
+seeni268
+divide by67
+seeni272
+divide by16
+seeni274
+divide by137
+seeni278
+divide by139
+seeni284
+divide by71
+seeni292
+divide by73
+seeni296
+divide by37
+seeni298
+divide by149
+seeni302
+divide by151
+seeni304
+divide by16
+seeni314
+divide by157
+seeni316
+divide by79
+seeni326
+divide by163
+seeni328
+divide by41
+seeni332
+divide by83
+seeni334
+divide by167
+seeni344
+divide by43
+seeni346
+divide by173
+seeni356
+divide by89
+seeni358
+divide by179
+seeni362
+divide by181
+seeni368
+divide by16
+seeni376
+divide by47
+seeni382
+divide by191
+seeni386
+divide by193
+seeni388
+divide by97
+seeni394
+divide by197
+seeni398
+divide by199
+seeni404
+divide by101
+seeni412
+divide by103
+seeni422
+divide by211
+seeni424
+divide by53
+seeni428
+divide by107
+seeni436
+divide by109
+seeni446
+divide by223
+seeni452
+divide by113
+seeni454
+divide by227
+seeni458
+divide by229
+seeni464
+divide by16
+seeni466
+divide by233
+seeni472
+divide by59
+seeni478
+divide by239
+seeni482
+divide by241
+seeni488
+divide by61
+seeni496
+divide by16
+seeni502
+divide by251
+seeni508
+divide by127
+seeni512
+divide by16
+seeni514
+divide by257
+seeni524
+divide by131
+seeni526
+divide by263
+seeni536
+divide by67
+seeni538
+divide by269
+seeni542
+divide by271
+seeni544
+divide by16
+seeni548
+divide by137
+seeni554
+divide by277
+seeni556
+divide by139
+seeni562
+divide by281
+seeni566
+divide by283
+seeni568
+divide by71
+seeni578
+divide by17
+seeni584
+divide by73
+seeni586
+divide by293
+seeni592
+divide by16
+seeni596
+divide by149
+seeni604
+divide by151
+seeni608
+divide by16
+seeni614
+divide by307
+seeni622
+divide by311
+seeni626
+divide by313
+seeni628
+divide by157
+seeni632
+divide by79
+seeni634
+divide by317
+seeni646
+divide by17
+seeni652
+divide by163
+seeni656
+divide by16
+seeni662
+divide by331
+seeni664
+divide by83
+seeni668
+divide by167
+seeni674
+divide by337
+seeni688
+divide by16
+seeni692
+divide by173
+seeni694
+divide by347
+seeni698
+divide by349
+seeni706
+divide by353
+seeni712
+divide by89
+seeni716
+divide by179
+seeni718
+divide by359
+seeni722
+divide by19
+seeni724
+divide by181
+seeni734
+divide by367
+seeni736
+divide by16
+seeni746
+divide by373
+seeni752
+divide by16
+seeni758
+divide by379
+seeni764
+divide by191
+seeni766
+divide by383
+seeni772
+divide by193
+seeni776
+divide by97
+seeni778
+divide by389
+seeni782
+divide by17
+seeni788
+divide by197
+seeni794
+divide by397
+seeni796
+divide by199
+seeni802
+divide by401
+seeni808
+divide by101
+seeni818
+divide by409
+seeni824
+divide by103
+seeni838
+divide by419
+seeni842
+divide by421
+seeni844
+divide by211
+seeni848
+divide by16
+seeni856
+divide by107
+seeni862
+divide by431
+seeni866
+divide by433
+seeni872
+divide by109
+seeni874
+divide by19
+seeni878
+divide by439
+seeni886
+divide by443
+seeni892
+divide by223
+seeni898
+divide by449
+seeni904
+divide by113
+seeni908
+divide by227
+seeni914
+divide by457
+seeni916
+divide by229
+seeni922
+divide by461
+seeni926
+divide by463
+seeni928
+divide by16
+seeni932
+divide by233
+seeni934
+divide by467
+seeni944
+divide by16
+seeni956
+divide by239
+seeni958
+divide by479
+seeni964
+divide by241
+seeni974
+divide by487
+seeni976
+divide by16
+seeni982
+divide by491
+seeni986
+divide by17
+seeni992
+divide by16
+seeni998
+divide by499
+seeni1004
+divide by251
+seeni1006
+divide by503
+time: 125
+noOfPrime =7

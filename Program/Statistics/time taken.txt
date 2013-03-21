@@ -1,0 +1,17 @@
+To find prime numbers till 10000000 (1 crore) (with out using file, no thread)
+time: 1.29246e+07 (= around 4 hours)
+noOfPrime = 664578
+
+time: 1.35154e+07
+noOfPrime =664579
+
+
+ time 27560828 noOfPrime = 664578
+ 
+ 664578*(8+4) = 7,974,936 byte(~7.6 MB)
+ 14019525496012
+ 
+ time: 769719
+noOfPrime =78499
+time: 420891
+noOfPrime =78499
