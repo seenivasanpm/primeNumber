@@ -6,6 +6,7 @@
 #include <stdlib.h>   // Declaration for exit()
 using namespace std;
 int globalVariable = 2;
+//test
 main()
 {
 	string sIdentifier;
